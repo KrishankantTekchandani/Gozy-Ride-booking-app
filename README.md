@@ -1,1 +1,1 @@
-# Gozy-Ride-booking-app
+# Xylogo-Ride-booking-app
